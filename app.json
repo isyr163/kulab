@@ -15,7 +15,7 @@
         },
         "UUID": {
             "description": "请输入自定义UUID（vless-ws与vmess-ws为用户ID，trojan-ws与shadowsocks-ws为密码，socks5-ws用户名密码为空）",
-            "value": "",
+            "value": "7feb867a-4c7f-4bc8-bd35-86e85832e3e8",
             "required": true
         }  
     },
